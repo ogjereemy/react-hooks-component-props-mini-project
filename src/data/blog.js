@@ -28,4 +28,6 @@ const blogData = {
   ],
 };
 
-export default blogData;
+// export {name, image, about }
+
+export default blogData
